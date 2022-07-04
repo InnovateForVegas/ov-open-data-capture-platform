@@ -4,6 +4,13 @@ The goal of this project is to enable the capture and update of city scale Open 
 
 Open Data should be captured and stored in meaningfully-segregated tables, using geographical information systems (GIS) best practices wherever possible, or enabling equivalent best practice access and maniupulation.
 
+## Project Policies
+
+Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Code for Vegas Foundation policies for Code of Conduct and Contributing, found at
+
+[Code of Conduct - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+[Contributing to this Project - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
+
 ## General Focus Areas
 
 This is a large and ongoing project with multiple components. Each focus area will likely require at least one component, which may be code found in github, or which may be some other component found elsewhere but tracked in github either directly or indirectly. Examples of these latter components include visual layout, icons and logos and other creative assets, videos and other larger creative assets, and so on.
