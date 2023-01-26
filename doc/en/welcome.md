@@ -43,7 +43,7 @@ In order to make use of the existing data sets, the ETL component will do exactl
 2. Transform data into the form we will store in the ODCP database(s). This will likely include coalescing data from different output formats into corrected input data, and then preparing that data appropriate for destination tables (eg a standard table and a PostGIS table, data across a user and dataset schema pair, etc).
 3. Load the final data into the ODCP database(s).
 
-There is useful information to be found in the context of Open Data, at the [Socrata archicture document page](https://open-source.socrata.com/architecture/) also linked in the *References* section below. SODA should be considered during the ETL process.
+There is useful information to be found in the context of Open Data, at the [Socrata architecture document page](https://open-source.socrata.com/architecture/) also linked in the *References* section below. SODA should be considered during the ETL process.
 
 ## Dashboards and Visualizations
 
@@ -78,7 +78,7 @@ Grossly speaking, there are two types of Open Data to consider and capture:
 
 Taking a practical public transit example scenario:
 
-* Bus stop locations are very stable, in that they will change slowly and require relocation of signage and other phyiscal elements.
+* Bus stop locations are very stable, in that they will change slowly and require relocation of signage and other physical elements.
 * Temporary bus stop locations are less stable, changing to accommodate construction, event traffic re-routing, etc and may change over the course of a day or days.
 * Bus routes and schedules tend to be fairly stable but may change for special events or other adjustments.
 * Bus locations vary in real time as vehicles move from stop to stop along a route according to a schedule.
@@ -87,7 +87,7 @@ By capturing these different types of data and exposing them to consumers, it is
 
 ## Example Uses
 
-Development of example applications, visualizations, and manipuations using a variety of means will help the casual user understand the scope and grandeur of city scale open data.
+Development of example applications, visualizations, and manipulations using a variety of means will help the casual user understand the scope and grandeur of city scale open data.
 
 Some example examples:
 

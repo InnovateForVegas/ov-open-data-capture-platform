@@ -23,7 +23,7 @@ This Overview repository is a specification and documentation component of the O
 
 The goal of this project is to enable the capture and update of city scale Open Data.
 
-Open Data should be captured and stored in meaningfully-segregated tables, using geographical information systems (GIS) best practices wherever possible, or enabling equivalent best practice access and maniupulation.
+Open Data should be captured and stored in meaningfully-segregated tables, using geographical information systems (GIS) best practices wherever possible, or enabling equivalent best practice access and manipulation.
 
 ## Project Policies
 
