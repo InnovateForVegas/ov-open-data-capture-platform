@@ -104,6 +104,8 @@ Beyond suggestions already stated above, the right tool for the job and best pra
 
 ## References
 
+[White House OSTP Data Collection Methodologies](https://www.whitehouse.gov/ostp/news-updates/2023/03/24/fact-sheet-white-house-office-of-science-and-technology-policy-announces-progress-on-advancing-equitable-data/)
+
 [NGAC Local Gov GIS Best Practices from 2011](https://www.fgdc.gov/ngac/ngac-local-gov-gis-best-practices-paper.pdf)
 
 [Open Data Guide for City of Las Vegas](https://files.lasvegasnevada.gov/open-data/Open_Data_Guide_for_CLV__ODSC_Approved_.pdf)
